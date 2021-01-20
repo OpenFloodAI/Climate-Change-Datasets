@@ -71,3 +71,7 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 * [Green Web Foundation Dataset](https://www.thegreenwebfoundation.org/green-web-datasets/): Shows which of the top million domains from HTTPArchive run on green power. 
 
 * [National Centers for Environmental Information](https://www.ncdc.noaa.gov/cdo-web/datasets) NOAA's National Centers for Environmental Information (NCEI) is responsible for preserving, monitoring, assessing, and providing public access to the Nation's treasure of climate and historical weather data and information.
+
+* [Meteostat JSON API](https://dev.meteostat.net/api/): The Meteostat JSON API provides simple access to a large archive of historical weather and climate data.
+
+* [Meteostat Python Package](https://github.com/meteostat/meteostat-python): Access and analyze historical weather and climate data with Python.
